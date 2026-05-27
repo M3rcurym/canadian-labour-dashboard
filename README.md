@@ -2,4 +2,4 @@
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/Screenshot%202026-05-19%20023637.png)
+![Dashboard](Screenshots/Screenshot 2026-05-19 101148.png

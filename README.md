@@ -10,7 +10,7 @@ This Power BI project explores Canadian labour market trends using interactive d
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/Screenshot%202026-05-19%20101148.png)
+![Labour Market Dashboard](Screenshots/Labour_Market_Dashboard.png)
 
 ## Insights
 - Employment and unemployment trends
